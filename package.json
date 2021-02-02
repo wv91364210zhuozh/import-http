@@ -19,7 +19,7 @@
   "author": "egoist<0x142857@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "builtin-modules": "^3.0.0",
+    "builtin-modules": "^3.2.0",
     "env-paths": "^2.0.0",
     "mkdirp": "^0.5.1",
     "node-fetch": "^2.3.0"
